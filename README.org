@@ -1,0 +1,18 @@
+#+TITLE:
+
+* Description
+
+* Programs
+** CESH 
+Is the shell it's pronaunced sesh (the Sess in Session)
+
+** MTE
+MTE stands for martin's text editor, it's nano-like
+** Tic Tac Toe
+** Directory nav tool
+
+** Welcome program
+
+* Goals
+- [ ] Write a custom kernel (using linux for now)
+- [ ] Write all the programs
