@@ -1,9 +1,7 @@
 #+TITLE: CENIX
 
-- Description
 Cenix is a small learning project for me to learn: make, c++, memory managment, syscalls and a host of other things. 
 
-- Programs
 ** User programs
 *** CESH 
 Is the default shell it's pronounced sesh (the Sess in Session)
@@ -23,8 +21,10 @@ A clone of the unix echo utility 1:1
 A simple implamentation of the classic tictactoe in c++ cli form
 
 *** Hangman
+WIP
 
 *** Snake
+WIP
 
 
 * Goals
