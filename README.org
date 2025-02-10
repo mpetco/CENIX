@@ -1,17 +1,25 @@
-#+TITLE:
+#+TITLE: CENIX
 
 * Description
+Cenix is a small learning project for me to learn: make, c++, memory managment, syscalls and a host of other things. 
 
 * Programs
 ** CESH 
-Is the shell it's pronaunced sesh (the Sess in Session)
+Is the default shell it's pronounced sesh (the Sess in Session)
 
 ** MTE
-MTE stands for martin's text editor, it's nano-like
-** Tic Tac Toe
-** Directory nav tool
+MTE stands for martin's text editor, it's nano-like, in that it does not have modes like vi and it displays the keybindings
 
-** Welcome program
+** Tic Tac Toe
+A simple implamentation of the classic tictactoe in c++ cli form
+
+** Navtool
+The navtool is a mix of mkdir, rm, touch in one program
+
+** Printxt
+A clone of the unix echo utility 1:1
+
+# Welcome program
 
 * Goals
 - [ ] Write a custom kernel (using linux for now)
